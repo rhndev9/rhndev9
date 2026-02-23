@@ -1,16 +1,57 @@
-## Hi there 👋
+🚀 Rowell Hans P. Osinsao
+Application Developer | Front-End Developer
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LeeDev428&color=blue" alt="profile views"/> </p>
+👋 About Me
 
-<!--
-**rhndev9/rhndev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate Computer Science graduate with strong interest in Android development and front-end technologies.
+🚀 Motivated, adaptable, and committed to continuous learning.
+🎯 Goal: To build scalable, user-friendly applications that solve real-world problems.
 
-Here are some ideas to get you started:
+🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bachelor of Science in Computer Science
+STI College Marikina City
+September 2021 – August 2025
+
+Senior High School – ICT Strand
+AMA College Makati City
+2019 – 2021
+
+🛠 Tech Stack
+🌐 Front-End
+
+
+
+
+
+
+Responsive Design
+
+Mobile-First Principles
+
+📱 Android Development
+
+
+
+
+Android Studio
+
+Firebase Authentication
+
+Firebase Cloud Messaging (Basic)
+
+UI/UX Screen Implementation
+
+Frontend–Backend Integration
+
+🖥 Technical & System Skills
+
+Hardware & Software Troubleshooting
+
+Basic Networking
+
+System Security Awareness
+
+Microsoft Office Tools
+
+Excel (Formulas, Sorting, Filtering, Basic Macros)

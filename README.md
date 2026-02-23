@@ -6,7 +6,7 @@
 </p>
 
 ---
-## 📖 $ cat about_me.txt
+## 📖 $ about me
 
 I am a Computer Science graduate passionate about building practical and user-friendly applications.  
 

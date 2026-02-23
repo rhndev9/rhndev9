@@ -1,6 +1,6 @@
 🚀 Rowell Hans P. Osinsao
 Application Developer | Front-End Developer
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LeeDev428&color=blue" alt="profile views"/> </p>
+
 👋 About Me
 
 💡 Passionate Computer Science graduate with strong interest in Android development and front-end technologies.

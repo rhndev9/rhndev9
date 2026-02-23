@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rowell Hans Osinsao
+# I'm Rowell Hans Osinsao
 
 ### 💻 Aspiring Software Developer  
 📱 Android Developer | 🌐 Front-End Enthusiast  

@@ -1,57 +1,110 @@
-🚀 Rowell Hans P. Osinsao
-Application Developer | Front-End Developer
+# 👋 Hi, I'm Rowell Hans Osinsao
 
-👋 About Me
+### 💻 Aspiring Software Developer  
+📱 Android Developer | 🌐 Front-End Enthusiast  
 
-💡 Passionate Computer Science graduate with strong interest in Android development and front-end technologies.
-🚀 Motivated, adaptable, and committed to continuous learning.
-🎯 Goal: To build scalable, user-friendly applications that solve real-world problems.
+---
 
-🎓 Education
+## 🚀 About Me  
 
-Bachelor of Science in Computer Science
-STI College Marikina City
-September 2021 – August 2025
+I am a Computer Science graduate passionate about building practical and user-friendly applications.  
+I have hands-on experience in Android development and front-end technologies, and I am continuously improving my skills in modern software development practices.
 
-Senior High School – ICT Strand
-AMA College Makati City
-2019 – 2021
+I am highly motivated, adaptable, and committed to learning new technologies while contributing to innovative and efficient solutions.
 
-🛠 Tech Stack
-🌐 Front-End
+---
 
+## 🎓 Education  
 
+**Bachelor of Science in Computer Science**  
+STI College Marikina City  
+September 2021 – August 2025  
 
+**Senior High School – ICT Strand**  
+AMA College Makati City  
+2019 – 2021  
 
+---
 
+## 🛠 Tech Stack  
 
-Responsive Design
+### 📱 Development Tools
+<p align="left">
+  <a href="https://developer.android.com/studio">
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="50"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  </a>
+</p>
 
-Mobile-First Principles
+### 🌐 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="50"/>
+</p>
 
-📱 Android Development
+---
 
+## 💼 Experience  
 
+### 📱 Application Developer Intern  
+**Marikina Information System Strategic Communication Center (MISSCC)**  
+February 2025 – April 2025  
 
+- Developed features for an emergency response mobile application  
+- Designed front-end screens using Android Studio  
+- Integrated Firebase backend services  
+- Improved application usability and performance  
 
-Android Studio
+---
 
-Firebase Authentication
+## 🖥 Technical Skills  
 
-Firebase Cloud Messaging (Basic)
+- Android Studio Development  
+- Firebase Authentication & Cloud Messaging (Basic)  
+- MySQL Database Fundamentals  
+- HTML, CSS, JavaScript  
+- Responsive & Mobile-First Design  
+- Hardware & Software Troubleshooting  
+- Basic Networking & System Security Awareness  
+- Microsoft Excel (Formulas, Sorting, Filtering, Basic Macros)  
 
-UI/UX Screen Implementation
+---
 
-Frontend–Backend Integration
+## 🌱 Currently Learning  
 
-🖥 Technical & System Skills
+- Advanced Android Architecture  
+- Backend Development Fundamentals  
+- API Integration  
+- Clean Code & Best Practices  
 
-Hardware & Software Troubleshooting
+---
 
-Basic Networking
+## 📊 GitHub Stats  
 
-System Security Awareness
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeDev428&show_icons=true&theme=tokyonight" />
+</p>
 
-Microsoft Office Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeDev428&layout=compact&theme=tokyonight" />
+</p>
 
-Excel (Formulas, Sorting, Filtering, Basic Macros)
+---
+
+## 🎯 Career Goal  
+
+To obtain an entry-level software development position where I can apply my technical skills, continuously learn, and contribute to impactful software solutions.
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: (Add your link here)  
+- 📧 Email: (Add your email here)  

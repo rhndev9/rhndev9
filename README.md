@@ -1,4 +1,4 @@
-<h1 align="center">⌨️ I'm Rowell Hans Osinsao</h1>
+<h1 align="center"> ☕ Rowell Hans Osinsao</h1>
 
 <p align="center">
   <code>Aspiring Software Developer</code> <br>
@@ -7,14 +7,6 @@
 
 ---
 
-## 🖥 $ whoami
-
-```bash
-> Computer Science graduate
-> Passionate about building practical & user-friendly applications
-> Android + Front-End focused
-> Lifelong learner in modern software development
-```
 
 ---
 

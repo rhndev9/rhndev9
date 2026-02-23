@@ -62,17 +62,6 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 - API Integration  
 - Clean Code & Best Practices  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeDev428&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeDev428&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 

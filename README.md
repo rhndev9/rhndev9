@@ -14,17 +14,7 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 
 ---
 
-## 🎓 Education  
 
-**Bachelor of Science in Computer Science**  
-STI College Marikina City  
-September 2021 – August 2025  
-
-**Senior High School – ICT Strand**  
-AMA College Makati City  
-2019 – 2021  
-
----
 
 ## 🛠 Tech Stack  
 
@@ -49,18 +39,6 @@ AMA College Makati City
   <img src="https://skillicons.dev/icons?i=html,css,js" height="50"/>
 </p>
 
----
-
-## 💼 Experience  
-
-### 📱 Application Developer Intern  
-**Marikina Information System Strategic Communication Center (MISSCC)**  
-February 2025 – April 2025  
-
-- Developed features for an emergency response mobile application  
-- Designed front-end screens using Android Studio  
-- Integrated Firebase backend services  
-- Improved application usability and performance  
 
 ---
 

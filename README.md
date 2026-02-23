@@ -1,102 +1,81 @@
-# I'm Rowell Hans Osinsao
+<h1 align="center">⌨️ I'm Rowell Hans Osinsao</h1>
 
-### 💻 Aspiring Software Developer  
-📱 Android Developer | 🌐 Front-End Developer
-
----
-
-## 🚀 About Me  
-
-I am a Computer Science graduate passionate about building practical and user-friendly applications.  
-I have hands-on experience in Android development and front-end technologies, and I am continuously improving my skills in modern software development practices.
-
-I am highly motivated, adaptable, and committed to learning new technologies while contributing to innovative and efficient solutions.
+<p align="center">
+  <code>Aspiring Software Developer</code> <br>
+  <code>Android Developer</code> • <code>Front-End Developer</code>
+</p>
 
 ---
 
+## 🖥 $ whoami
 
-## 🛠 Tech Stack  
+```bash
+> Computer Science graduate
+> Passionate about building practical & user-friendly applications
+> Android + Front-End focused
+> Lifelong learner in modern software development
+```
+
+---
+
+## 🚀 Tech Stack
 
 ### 📱 Mobile Development
-<p align="left">
-  <a href="https://developer.android.com/studio">
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="50"/>
-  </a>
-  <a href="https://kotlinlang.org/">
-    <img src="https://skillicons.dev/icons?i=kotlin" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
-  </a>
-</p>
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
----
+### 🌐 Front-End
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-### 🌐 Front-End Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="50"/>
-</p>
-
----
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python" height="50"/>
-</p>
-
----
+### 💻 Programming
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 
 ### 🗄 Database
-<p align="left">
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-  </a>
-</p>
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### 🔧 Tools
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
-### 🔧 Tools & Version Control
-<p align="left">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-</p>
+## 🛠 Technical Skills
 
+```bash
+✔ Android Studio Development
+✔ Firebase Authentication & Cloud Messaging (Basic)
+✔ MySQL Database Fundamentals
+✔ Responsive & Mobile-First Design
+✔ Hardware & Software Troubleshooting
+✔ Basic Networking & Security Awareness
+✔ Microsoft Excel (Formulas, Basic Macros)
+```
 
 ---
 
-## 🖥 Technical Skills  
+## 🌱 Currently Learning
 
-- Android Studio Development  
-- Firebase Authentication & Cloud Messaging (Basic)  
-- MySQL Database Fundamentals  
-- HTML, CSS, JavaScript  
-- Responsive & Mobile-First Design  
-- Hardware & Software Troubleshooting  
-- Basic Networking & System Security Awareness  
-- Microsoft Excel (Formulas, Sorting, Filtering, Basic Macros)  
+```bash
+> Advanced Android Architecture
+> Backend Development Fundamentals
+> API Integration
+> Clean Code & Best Practices
+```
 
 ---
 
-## 🌱 Currently Learning  
+## 🎯 Career Goal
 
-- Advanced Android Architecture  
-- Backend Development Fundamentals  
-- API Integration  
-- Clean Code & Best Practices  
-
-
----
-
-## 🎯 Career Goal  
-
-To obtain an entry-level software development position where I can apply my technical skills, continuously learn, and contribute to impactful software solutions.
+```bash
+To obtain an entry-level software development position
+where I can apply my technical skills, continuously learn,
+and contribute to impactful software solutions.
+```
 
 ---
 

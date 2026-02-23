@@ -1,4 +1,4 @@
-<h1 align="center"> ☕ Rowell Hans Osinsao</h1>
+<h1 align="center"> ☕ **𝚁𝚘𝚠𝚎𝚕𝚕 𝙷𝚊𝚗𝚜 𝙿. 𝙾𝚜𝚒𝚗𝚜𝚊𝚘** /h1>
 
 <p align="center">
   <code>Aspiring Software Developer</code> <br>
@@ -6,7 +6,7 @@
 </p>
 
 ---
-## 📖 $ about me
+## 📖 **𝙰𝚋𝚘𝚞𝚝 𝚖𝚎** 
 
 I am a Computer Science graduate passionate about building practical and user-friendly applications.  
 
@@ -17,7 +17,7 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 **𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔**
 
 ### 📱 Mobile Development
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
@@ -43,7 +43,7 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 **𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚔𝚒𝚕𝚕𝚜**
 
 ```bash
 ✔ Android Studio Development
@@ -57,7 +57,7 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 **𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐**
 
 ```bash
 > Advanced Android Architecture

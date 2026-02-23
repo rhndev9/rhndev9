@@ -1,7 +1,7 @@
 # I'm Rowell Hans Osinsao
 
 ### 💻 Aspiring Software Developer  
-📱 Android Developer | 🌐 Front-End Enthusiast  
+📱 Android Developer | 🌐 Front-End Developer
 
 ---
 

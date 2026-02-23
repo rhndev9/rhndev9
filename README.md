@@ -100,7 +100,12 @@ To obtain an entry-level software development position where I can apply my tech
 
 ---
 
-## 📫 Connect With Me  
+## 📊 GitHub Stats
 
-- 💼 LinkedIn: (Add your link here)  
-- 📧 Email: (Add your email here)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhndev9&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhndev9&layout=compact&theme=tokyonight" />
+</p>

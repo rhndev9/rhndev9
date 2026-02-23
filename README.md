@@ -6,6 +6,13 @@
 </p>
 
 ---
+## 📖 $ cat about_me.txt
+
+I am a Computer Science graduate passionate about building practical and user-friendly applications.  
+
+I have hands-on experience in Android development and front-end technologies, and I continuously improve my skills in modern software development practices.
+
+I am highly motivated, adaptable, and committed to learning new technologies while contributing to innovative and efficient solutions.
 
 
 ---
@@ -69,14 +76,3 @@ where I can apply my technical skills, continuously learn,
 and contribute to impactful software solutions.
 ```
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhndev9&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhndev9&layout=compact&theme=tokyonight" />
-</p>

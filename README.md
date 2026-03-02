@@ -5,10 +5,6 @@
   <code>Android Developer</code> • <code>Front-End Developer</code>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
-</p>
-
 ---
 
 ## 📖 **𝙰𝚋𝚘𝚞𝚝 𝚖𝚎** 
@@ -36,8 +32,9 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 
-### 🔥 Database & Backend
+### 🗄 Database & Backend
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### 🔧 Tools
 ![VSCode](https://skillicons.dev/icons?i=vscode)
@@ -52,7 +49,9 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 ✔ Android Studio Development
 ✔ Firebase Authentication & Cloud Messaging (Basic)
 ✔ Firebase Realtime Database / Firestore (Basic)
+✔ MySQL Database Fundamentals
 ✔ Responsive & Mobile-First Design
 ✔ Hardware & Software Troubleshooting
 ✔ Basic Networking & Security Awareness
 ✔ Microsoft Excel (Formulas, Basic Macros)
+

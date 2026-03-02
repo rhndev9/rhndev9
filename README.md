@@ -5,7 +5,12 @@
   <code>Android Developer</code> • <code>Front-End Developer</code>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
 ---
+
 ## 📖 **𝙰𝚋𝚘𝚞𝚝 𝚖𝚎** 
 
 I am a Computer Science graduate passionate about building practical and user-friendly applications.  
@@ -14,7 +19,6 @@ I have hands-on experience in Android development and front-end technologies, an
 
 I am highly motivated, adaptable, and committed to learning new technologies while contributing to innovative and efficient solutions.
 
-
 ---
 
 ## 🚀 **𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔**
@@ -22,7 +26,6 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 ### 📱 Mobile Development
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### 🌐 Front-End
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -33,8 +36,8 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 
-### 🗄 Database
-![MySQL](https://skillicons.dev/icons?i=mysql)
+### 🔥 Database & Backend
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### 🔧 Tools
 ![VSCode](https://skillicons.dev/icons?i=vscode)
@@ -48,31 +51,8 @@ I am highly motivated, adaptable, and committed to learning new technologies whi
 ```bash
 ✔ Android Studio Development
 ✔ Firebase Authentication & Cloud Messaging (Basic)
-✔ MySQL Database Fundamentals
+✔ Firebase Realtime Database / Firestore (Basic)
 ✔ Responsive & Mobile-First Design
 ✔ Hardware & Software Troubleshooting
 ✔ Basic Networking & Security Awareness
 ✔ Microsoft Excel (Formulas, Basic Macros)
-```
-
----
-
-## 🌱 **𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐**
-
-```bash
-> Advanced Android Architecture
-> Backend Development Fundamentals
-> API Integration
-> Clean Code & Best Practices
-```
-
----
-
-## 🎯 Career Goal
-
-```bash
-To obtain an entry-level software development position
-where I can apply my technical skills, continuously learn,
-and contribute to impactful software solutions.
-```
-
